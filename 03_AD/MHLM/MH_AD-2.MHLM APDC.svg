@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    xml:space="preserve"
    width="765"
    height="990"
@@ -81,10 +81,10 @@
      inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.95353533"
-     inkscape:cx="333.12098"
-     inkscape:cy="590.8368"
-     inkscape:window-x="-8"
+     inkscape:zoom="0.6742513"
+     inkscape:cx="615.14859"
+     inkscape:cy="446.56714"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g252" /><g
@@ -560,15 +560,13 @@
              style="font-size:9.83969498px;line-height:1.25">AD-2.MHLM APDC</tspan></text>
 <text
            transform="scale(1.0000259,-0.99997409)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-size:10.00000005px;"
            id="text282"
            x="524.5069"
-           y="-744.42529"><tspan
+           y="-744.42529"
+           sodipodi:linespacing="0%"><tspan
              sodipodi:role="line"
-             id="tspan4599"
-             x="524.5069"
-             y="-744.42529"
-             style="font-size:10px;line-height:1.25">12 OCT 17</tspan></text>
+             id="tspan4599">26 APR 18</tspan></text>
 <text
            transform="matrix(1,0,0,-0.99994779,58.19972,25.19441)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -580,15 +578,13 @@
              style="font-size:10.00026131px;line-height:1.25">AIM - HONDURAS</tspan></text>
 <text
            transform="scale(1.0000261,-0.99997389)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-size:12.00000006px;"
            id="text290"
            x="514.87421"
-           y="-25.788334"><tspan
+           y="-25.788334"
+           sodipodi:linespacing="0%"><tspan
              sodipodi:role="line"
-             id="tspan5076"
-             x="514.87421"
-             y="-25.788334"
-             style="font-size:10px;line-height:1.25">AMDT 0/17</tspan></text>
+             id="tspan4607">AMDT 0/18</tspan></text>
 <text
            transform="matrix(1,0,0,-0.99994823,503.75757,727.08206)"
            style="font-variant:normal;font-weight:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1142,31 +1138,25 @@
              style="font-size:5.99996996px;line-height:1.25">BEARINGS ARE MAGNETIC</tspan></text>
 <text
            transform="matrix(1,0,0,-0.99994833,66.23968,651.31951)"
-           style="font-variant:normal;font-weight:bold;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text564"><tspan
-             x="0 3.9598002 8.2795382 12.599277 14.279208 17.639011 20.038879 21.598812 24.958614 28.318419 29.75835 31.438282"
-             y="0"
+           style="font-variant:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;font-size:5.00012918px;text-anchor:start;text-align:start;"
+           id="text564"
+           sodipodi:linespacing="0%"><tspan
              sodipodi:role="line"
-             id="tspan566"
-             style="font-size:5.99996996px;line-height:1.25">VAR 0° 13' E</tspan></text>
+             id="tspan4601">VAR 0° 31' W</tspan></text>
 <text
            transform="matrix(1,0,0,-0.99994833,66.23968,644.4799)"
-           style="font-variant:normal;font-weight:bold;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text568"><tspan
-             x="0 3.2398038 6.599607 8.2795382 12.599277 17.279013 21.238813 22.918745 26.278549"
-             y="0"
+           style="font-variant:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;font-size:5.00012918px;text-anchor:start;text-align:start;"
+           id="text568"
+           sodipodi:linespacing="0%"><tspan
              sodipodi:role="line"
-             id="tspan570"
-             style="font-size:5.99996996px;line-height:1.25">15 NOV 12</tspan></text>
+             id="tspan4603">26 APR 18</tspan></text>
 <text
            transform="matrix(1,0,0,-0.99994833,66.23968,637.5203)"
-           style="font-variant:normal;font-weight:bold;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text572"><tspan
-             x="0 4.3197384 8.6394768 12.959215 17.278954 21.598692 25.198494 26.878426 31.198164 35.517902 39.237705 43.197502 44.877434 49.557171 53.156975 54.836906 59.156643 63.476383 67.79612 72.11586 76.795593 80.755394 82.435326 85.795128 87.235062 88.914993"
-             y="0"
+           style="font-variant:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;font-size:5.00012918px;text-anchor:start;text-align:start;"
+           id="text572"
+           sodipodi:linespacing="0%"><tspan
              sodipodi:role="line"
-             id="tspan574"
-             style="font-size:5.99996996px;line-height:1.25">ANNUAL RATE OF CHANGE 7' W</tspan></text>
+             id="tspan4605">ANNUAL RATE OF CHANGE 0°08' W</tspan></text>
 <text
            transform="matrix(0,0.99994833,1,0,588.79193,55.48202)"
            style="font-variant:normal;font-weight:bold;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
